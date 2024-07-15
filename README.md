@@ -71,7 +71,3 @@ jupyter notebook Task_1_House_Price_Prediction_Linear_Regression.ipynb
 ## Results
 
 The notebook outputs the Mean Squared Error (MSE) and R-squared (R²) score for the model. The predictions for the test set are saved to `predictions.csv`.
-
----
-
-You can customize this README content further based on any additional information or specific instructions you want to include. Let me know if there's anything else you need!
